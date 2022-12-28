@@ -1,5 +1,5 @@
 # Programming-Training
-학교 수업에서 진행한 프로젝트들을 기록하는 레포지터리입니다.
+학교 수업에서 진행한 간단한 프로젝트들을 기록하는 리포지터리입니다.
 
 ## W3School_Clone
 ![1](https://i.imgur.com/IHG5k7Q.png)  
